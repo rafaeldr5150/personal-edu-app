@@ -1,0 +1,4 @@
+data/
+.streamlit/
+.env
+desempenho_alunos_questoes.csv
